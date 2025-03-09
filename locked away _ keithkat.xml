@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2025-03-04 02:14 PM
+5.0.83.103719 (103719)
+19b3a2b (22 Jun 2023 10:58:22 am)
+-->
+<scene title="locked away : keithkat" width="1080" height="1920" exportWidth="1080" exportHeight="1920" precompose="dynamicResolution" bgcolor="#ffffffff" totalTime="23032" fps="30" modifiedTime="1741068868835" amver="103719" ffver="106" am="com.alightcreative.motion/5.0.83.103719" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="content://media/external/video/media/49502" filename="aad0b509074c97359985c89616ce9088.mp4" title="aad0b509074c97359985c89616ce9088.mp4" type="video/mp4" duration="64000000" size="2887690" fps="0.30" orientation="0" infoUpdated="1741043511154" width="576" height="1248" />
+  <media uri="content://media/external/images/media/49781" filename="4 editing profiles [E34EB95].png" title="4 editing profiles [E34EB95].png" type="image/png" size="628972" orientation="0" infoUpdated="1741043511154" width="1080" height="1920" />
+  <media uri="content://media/external/images/media/49780" filename="4 editing profiles [5F1F58C].png" title="4 editing profiles [5F1F58C].png" type="image/png" size="628461" orientation="0" infoUpdated="1741043511154" width="1080" height="1920" />
+  <media uri="content://media/external/images/media/49783" filename="4 editing profiles [D94752B].png" title="4 editing profiles [D94752B].png" type="image/png" size="632599" orientation="0" infoUpdated="1741043511154" width="1080" height="1920" />
+  <media uri="content://media/external/images/media/49784" filename="4 editing profiles [6B0EA64].png" title="4 editing profiles [6B0EA64].png" type="image/png" size="660430" orientation="0" infoUpdated="1741043511154" width="1080" height="1920" />
+  <media uri="content://media/external/images/media/49782" filename="4 editing profiles [265B7B4].png" title="4 editing profiles [265B7B4].png" type="image/png" size="625605" orientation="0" infoUpdated="1741043511154" width="1080" height="1920" />
+  <media uri="content://media/external/images/media/49786" filename="4 editing profiles [13BDC1F].png" title="4 editing profiles [13BDC1F].png" type="image/png" size="655654" orientation="0" infoUpdated="1741043511154" width="1080" height="1920" />
+  <media uri="content://media/external/images/media/49787" filename="4 editing profiles [3898E96].png" title="4 editing profiles [3898E96].png" type="image/png" size="663423" orientation="0" infoUpdated="1741043511154" width="1080" height="1920" />
+  <media uri="content://media/external/images/media/49785" filename="4 editing profiles [484EBC0].png" title="4 editing profiles [484EBC0].png" type="image/png" size="658379" orientation="0" infoUpdated="1741043511154" width="1080" height="1920" />
+  <bookmark t="2650" />
+  <bookmark t="5183" />
+  <bookmark t="7750" />
+  <bookmark t="9550" />
+  <bookmark t="15383" />
+  <bookmark t="17850" />
+  <bookmark t="19816" />
+  <bookmark t="10650" />
+  <bookmark t="11950" />
+  <bookmark t="12750" />
+  <bookmark t="21016" />
+  <bookmark t="22016" />
+  <audio id="10188592" label="aad0b509074c97359985c89616ce9088.mp4" startTime="0" endTime="23032" src="content://media/external/video/media/49502" outTime="23032" mediaFillMode="fill" />
+  <embedScene id="10188613" label="Group and Mask 1" startTime="2633" endTime="23032" fillType="intrinsic" mediaFillMode="fill">
+    <transform>
+      <location value="540.000000,960.000000,0.000000" />
+      <scale>
+        <kf t="0.125006" v="0.895833,0.895833" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.000000" v="1.898958,1.898958" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.250846" v="1.383854,1.383854" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.339085" v="1.383854,1.383854" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.393009" v="0.888021,0.888021" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.495956" v="1.000000,1.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.625031" v="1.429167,1.429167" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.745968" v="0.842708,0.842708" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.842345" v="1.391146,1.391146" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.901172" v="1.618750,1.618750" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.950194" v="0.928646,0.928646" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="1.000000" v="1.357292,1.357292" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.456738" v="1.627083,1.627083" e="cubicBezier 0.5 0.0 0.0 1.0" />
+      </scale>
+      <rotation>
+        <kf t="0.250846" v="0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.339085" v="180.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.393009" v="0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+      </rotation>
+      <opacity>
+        <kf t="0.950194" v="1.000000" />
+        <kf t="1.000000" v="0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+      </opacity>
+    </transform>
+    <fillColor value="#ff000000" />
+    <effect id="com.alightcreative.effects.box" locallyApplied="true">
+      <property name="width" type="float" value="1.900000" />
+      <property name="height" type="float" value="3.390000" />
+      <property name="depth" type="float" value="0.200000" />
+      <property name="smooth" type="float" value="0.000000" />
+      <property name="position" type="vec3" value="0.000000,100.000000,600.000000" />
+      <property name="scale" type="float" value="1.000000" />
+      <property name="shadingType" type="int" value="0" />
+      <property name="lightIntensity" type="float" value="1.000000" />
+      <property name="shine" type="float" value="0.000000" />
+      <property name="spec" type="float" value="150.000000" />
+      <property name="ambient" type="float" value="0.100000" />
+      <property name="lightColor" type="color" value="#ffffffff" />
+      <property name="lightDir" type="vec2" value="75.000000,-75.000000" />
+      <property name="lightDepth" type="float" value="100.000000" />
+      <property name="mirror" type="bool" value="false" />
+      <property name="texStretch" type="bool" value="true" />
+      <property name="texRepeatX" type="float" value="1.000000" />
+      <property name="texRepeatY" type="float" value="1.000000" />
+      <property name="texAngle" type="float" value="0.000000" />
+      <property name="texCrop" type="float" value="1.000000" />
+      <property name="texTwirl" type="float" value="0.000000" />
+      <property name="MAX_ITER" type="float" value="60.000000" />
+      <property name="orient" type="quat">
+        <kf t="0.125006" v="0.000000,0.000000,0.000000,1.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.250846" v="0.083347,0.291259,-0.025482,0.952666" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.339085" v="-0.083347,0.291259,0.025482,0.952666" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.393009" v="0.083347,0.291260,-0.025482,0.952666" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.456738" v="0.057723,-0.324961,0.019875,0.943755" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.495956" v="0.000000,0.000000,-0.000000,1.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.625031" v="0.000000,0.000000,-0.000000,1.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.745968" v="0.000000,0.000000,-0.000000,1.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.842345" v="0.000000,0.000000,-0.000000,1.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.950194" v="0.091658,-0.291026,0.028023,0.951902" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.999216" v="0.000000,0.000000,0.000000,1.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.901172" v="0.091658,0.291026,-0.028023,0.951902" e="cubicBezier 0.5 0.0 0.0 1.0" />
+      </property>
+      <property name="rotate" type="vec3">
+        <kf t="0.125006" v="0.000000,0.000000,0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.250846" v="0.000000,-180.000000,0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.339085" v="0.000000,0.000000,0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.393009" v="0.000000,0.000000,0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.456738" v="0.000000,0.000000,0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.495956" v="0.000000,-180.000000,0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.625031" v="0.000000,-180.000000,0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.745968" v="0.000000,-180.000000,0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.842345" v="0.000000,0.000000,0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.901172" v="0.000000,0.000000,0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="0.950194" v="0.000000,0.000000,0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+        <kf t="1.000000" v="0.000000,180.000000,0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+      </property>
+    </effect>
+    <scene title="" width="1080" height="1920" exportWidth="1080" exportHeight="1920" precompose="dynamicResolution" bgcolor="#00000000" totalTime="20399" fps="30" modifiedTime="0" amver="103719" ffver="106" am="com.alightcreative.motion/5.0.83.103719" amplatform="android" retime="off" retimeAdaptFPS="false">
+      <shape id="10188594" label="and we lost it all today" startTime="2533" endTime="6932" fillType="media" fillImage="content://media/external/images/media/49781" mediaFillMode="fill" s=".rect">
+        <transform>
+          <location value="540.000000,960.000061,0.000000" />
+        </transform>
+        <property name="size" type="vec2" value="540.000000,960.000000" />
+      </shape>
+      <shape id="10188593" label="if i got locked away" startTime="0" endTime="5132" fillType="media" fillImage="content://media/external/images/media/49780" mediaFillMode="fill" s=".rect">
+        <transform>
+          <location>
+            <kf t="0.496882" v="540.000000,960.000061,0.000000" />
+            <kf t="1.000000" v="540.000000,2880.000000,0.000000" e="cubicBezier 0.48963875 0.0 0.0 1.0" />
+          </location>
+          <opacity>
+            <kf t="0.496882" v="1.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+            <kf t="0.000000" v="0.000000" />
+          </opacity>
+        </transform>
+        <property name="size" type="vec2" value="540.000000,960.000000" />
+      </shape>
+      <shape id="10188596" label="would you still love me the same?" startTime="6900" endTime="12766" fillType="media" fillImage="content://media/external/images/media/49783" mediaFillMode="fill" s=".rect">
+        <transform>
+          <location>
+            <kf t="0.548415" v="540.000000,960.000061,0.000000" />
+            <kf t="1.000000" v="-540.000000,960.000061,0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+          </location>
+        </transform>
+        <property name="size" type="vec2" value="540.000000,960.000000" />
+      </shape>
+      <shape id="10188597" label="if i showed you my flaws" startTime="10133" endTime="15232" fillType="media" fillImage="content://media/external/images/media/49784" mediaFillMode="fill" s=".rect">
+        <transform>
+          <location>
+            <kf t="0.516376" v="540.000000,960.000061,0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+            <kf t="0.000000" v="1619.770508,960.000061,0.000000" />
+          </location>
+        </transform>
+        <property name="size" type="vec2" value="540.000000,960.000000" />
+      </shape>
+      <shape id="10188595" label="tell me honestly" startTime="5100" endTime="10132" fillType="media" fillImage="content://media/external/images/media/49782" mediaFillMode="fill" s=".rect">
+        <transform>
+          <location>
+            <kf t="1.006757" v="1483.479614,1002.118103,0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+            <kf t="1.000000" v="1620.000000,1002.118103,0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+            <kf t="0.361089" v="540.000000,1002.118103,0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+            <kf t="0.579690" v="969.979614,1002.118103,0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+            <kf t="0.838036" v="1192.479614,1002.118103,0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+          </location>
+          <scale>
+            <kf t="0.997019" v="1.000000,1.000000" />
+          </scale>
+          <rotation value="180.000000" />
+          <opacity>
+            <kf t="0.361089" v="1.000000" e="cubicBezier 0.50160694 0.0 0.0 1.0" />
+            <kf t="0.000000" v="0.000000" />
+          </opacity>
+        </transform>
+        <property name="size" type="vec2" value="540.000000,960.000000" />
+      </shape>
+      <shape id="10188599" label="tell me honestly" startTime="15200" endTime="19899" fillType="media" fillImage="content://media/external/images/media/49786" mediaFillMode="fill" s=".rect">
+        <transform>
+          <location value="540.000000,960.000061,0.000000" />
+        </transform>
+        <property name="size" type="vec2" value="540.000000,960.000000" />
+      </shape>
+      <embedScene id="10188611" label="if i couldn’t be strong" startTime="12733" endTime="17199" fillType="intrinsic" mediaFillMode="fill">
+        <transform>
+          <location value="540.000000,960.000061,0.000000" />
+        </transform>
+        <fillColor value="#ff000000" />
+        <shadow direction="outside">
+          <size value="25.000000" />
+          <offset value="0.000000,0.000000" />
+        </shadow>
+        <scene title="" width="1080" height="1920" exportWidth="1080" exportHeight="1920" precompose="dynamicResolution" bgcolor="#00000000" totalTime="4466" fps="30" modifiedTime="0" amver="103719" ffver="106" am="com.alightcreative.motion/5.0.83.103719" amplatform="android" retime="off" retimeAdaptFPS="false">
+          <shape id="10188598" label="if i couldn’t be strong" startTime="0" endTime="4466" fillType="media" fillImage="content://media/external/images/media/49785" mediaFillMode="fill" s=".rect">
+            <transform>
+              <location value="540.000000,960.000000,0.000000" />
+            </transform>
+            <property name="size" type="vec2" value="540.000000,960.000000" />
+          </shape>
+          <shape id="10188610" label="Polygon 1" startTime="0" endTime="4466" fillType="color" blending="mask" mediaFillMode="fill" s=".poly">
+            <transform>
+              <location value="540.000000,960.000000,0.000000" />
+              <scale>
+                <kf t="0.000000" v="0.000000,0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+                <kf t="1.000000" v="0.000000,0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+                <kf t="0.556202" v="6.120000,6.120000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+              </scale>
+              <rotation>
+                <kf t="0.000000" v="0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+                <kf t="0.556202" v="180.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+                <kf t="1.000000" v="0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+              </rotation>
+            </transform>
+            <fillColor value="#ff7ccc7c" />
+            <property name="sideCount" type="float" value="6.000000" />
+            <property name="radius" type="float" value="100.000000" />
+            <property name="offsetAngle" type="float" value="0.000000" />
+          </shape>
+        </scene>
+      </embedScene>
+      <shape id="10188601" label="would you still love me the same" startTime="17167" endTime="20399" fillType="media" fillImage="content://media/external/images/media/49787" mediaFillMode="fill" s=".rect">
+        <transform>
+          <location value="540.000000,960.000061,0.000000" />
+        </transform>
+        <effect id="com.alightcreative.effects.pagecurl" locallyApplied="true">
+          <property name="progress" type="float">
+            <kf t="1.000000" v="0.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+            <kf t="0.000000" v="1.000000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+            <kf t="0.376237" v="0.400000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+            <kf t="0.685644" v="0.300000" e="cubicBezier 0.5 0.0 0.0 1.0" />
+          </property>
+          <property name="radius" type="float" value="0.100000" />
+          <property name="angle" type="float" value="38.000000" />
+          <property name="alpha" type="float" value="1.000000" />
+          <property name="strength" type="float" value="0.100000" />
+          <property name="backColor" type="color" value="#ff888888" />
+          <property name="backAlpha" type="float" value="1.000000" />
+          <property name="backBlendMode" type="int" value="1" />
+          <property name="shineColor" type="color" value="#ffffffff" />
+          <property name="shineAlpha" type="float" value="1.000000" />
+          <property name="shineSpec" type="float" value="30.000000" />
+          <property name="shineBlendMode" type="int" value="2" />
+          <property name="dropShadowColor" type="color" value="#ff000000" />
+          <property name="dropShadowAlpha" type="float" value="0.800000" />
+          <property name="softDropShadow" type="bool" value="true" />
+          <property name="frontShadowColor" type="color" value="#ffffffff" />
+          <property name="frontShadowAlpha" type="float" value="1.000000" />
+          <property name="frontShadowBlendMode" type="int" value="2" />
+        </effect>
+        <property name="size" type="vec2" value="540.000000,960.000000" />
+      </shape>
+      <shape id="10188612" label="Rectangle 1" startTime="0" endTime="20399" fillType="color" blending="mask" mediaFillMode="fill" s=".rect">
+        <transform>
+          <location value="540.000000,960.000061,0.000000" />
+          <scale value="5.400000,9.600000" />
+        </transform>
+        <fillColor value="#ff487ec6" />
+        <property name="size" type="vec2" value="100.000000,100.000000" />
+      </shape>
+    </scene>
+  </embedScene>
+  <shape id="10188614" startTime="0" endTime="23032" fillType="color" blending="darken" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="540.000000,960.000000,0.000000" />
+      <scale value="5.400000,9.600000" />
+    </transform>
+    <fillColor value="#ffd8e1f4" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="0" />
+      <property name="green" type="int" value="0" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="10188615" startTime="0" endTime="23032" fillType="color" blending="screen" speed="0.341626" mediaFillMode="stretch" s=".rect">
+    <transform>
+      <location value="540.000000,960.000000,-1000.000000" />
+      <scale value="9.600000,9.600000" />
+    </transform>
+    <fillColor value="#fffebbad" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="false">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.threshold" locallyApplied="false">
+      <property name="blendMode" type="int" value="1" />
+      <property name="threshold" type="float" value="0.550000" />
+      <property name="feather" type="float" value="0.000000" />
+      <property name="invert" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.gaussianblur" locallyApplied="false">
+      <property name="strength" type="float" value="0.705000" />
+    </effect>
+    <effect id="com.alightcreative.effects.stretch2" locallyApplied="false">
+      <property name="scale" type="float" value="50.000000" />
+      <property name="angle" type="float" value="0.000000" />
+      <property name="contentOnly" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.stretch2" locallyApplied="false">
+      <property name="scale" type="float" value="50.000000" />
+      <property name="angle" type="float" value="0.000000" />
+      <property name="contentOnly" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.spectralmap" locallyApplied="true">
+      <property name="blueColor" type="color" value="#ff000000" />
+      <property name="greenColor" type="color" value="#ffeea2b6" />
+      <property name="redColor" type="color" value="#ff000000" />
+      <property name="scaleBrightness" type="bool" value="true" />
+      <property name="phase" type="float" value="0.000000" />
+      <property name="repeat" type="float" value="1.000000" />
+      <property name="alpha" type="float" value="1.000000" />
+      <property name="squeeze" type="float" value="0.000000" />
+      <property name="saturation" type="float" value="0.000000" />
+      <property name="reverse" type="bool" value="false" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="10188616" startTime="0" endTime="23032" fillType="color" speed="0.341626" mediaFillMode="stretch" s=".rect">
+    <transform>
+      <location value="540.000000,960.000000,-1000.000000" />
+      <scale value="9.599999,9.599999" />
+      <opacity value="0.634766" />
+    </transform>
+    <fillColor value="#fff55a62" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="false">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.zoomblur3" locallyApplied="false">
+      <property name="strength" type="float" value="0.010000" />
+      <property name="adaptive" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.spinblur2" locallyApplied="true">
+      <property name="angle" type="float" value="1.300000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="10188617" startTime="0" endTime="23032" fillType="color" speed="0.341626" mediaFillMode="stretch" s=".rect">
+    <transform>
+      <location value="540.000000,960.000000,-1000.000000" />
+      <scale value="9.600000,9.600000" />
+    </transform>
+    <fillColor value="#fff55a62" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="false">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.sharpen" locallyApplied="true">
+      <property name="radius" type="float" value="10.000000" />
+      <property name="strength" type="float" value="0.100000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="false">
+      <property name="saturation" type="float" value="-0.215000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.sharpen" locallyApplied="false">
+      <property name="strength" type="float" value="0.470000" />
+      <property name="radius" type="float" value="1.000000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+</scene>
